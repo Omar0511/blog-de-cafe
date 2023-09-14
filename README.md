@@ -1,4 +1,4 @@
-# Blog para Café
+# Blog sobre Café
 
 ## Herramientas utilizadas
 
@@ -20,7 +20,7 @@
 
 ### Descripción
 
--
+- Proyecto sobre cafés
 
 ### URL
 
