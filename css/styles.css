@@ -3,7 +3,7 @@
     --fuenteParrafos: 'PT Sans', sans-serif;
 
     --primario: #784D3C;
-    --blanco: ##FFF;
+    --blanco: #FFF;
     --negro:  #000;
 }
 
@@ -61,10 +61,29 @@ img {
 }
 
 /*  Utilidades */
+.no-margin {
+    margin: 0;
+}
+
 .no-padding {
     padding: 0;
 }
 
 .centrar-texto {
     text-align: center;
+}
+
+/* Header */
+.header {
+    background-image: url(../img/banner.jpg);
+    height: 60rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.header__texto {
+    text-align: center;
+    color: var(--blanco);
+    margin-top: 5rem;
 }
