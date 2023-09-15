@@ -1,3 +1,8 @@
+/*
+    Los 'Heading' agregando margin, color naranja
+    los 'ul' agregan padding, color verde
+*/
+
 :root {
     --fuenteHeading: 'Open Sans', sans-serif;
     --fuenteParrafos: 'PT Sans', sans-serif;
@@ -158,6 +163,7 @@ img {
     font-family: var(--fuenteHeading);
     color: var(--blanco);
     text-align: center;
+    text-transform: uppercase;
     padding: 1rem 3rem;
     font-size: 1.8rem;
     font-weight: 700;
@@ -172,4 +178,37 @@ img {
 
 .boton--primario {
     background-color: var(--negro);
+}
+
+.boton--secundario {
+    background-color: var(--primario);
+}
+
+.cursos {
+    /* Quita diseño de biñetas de los ul */
+    list-style: none;
+}
+
+.widget-curso {
+    border-bottom: 1px solid var(--gris);
+    margin-bottom: 2rem;
+}
+
+.widget-curso:last-of-type {
+    border: none;
+    margin-bottom: 0;
+}
+
+.widget-curso__label {
+    font-family: var(--fuenteHeading);
+    font-weight: bold;
+}
+
+.widget-curso__info {
+    font-weight: normal;
+}
+
+.widget-curso__label,
+.widget-curso__info {
+    font-size: 2rem;
 }
