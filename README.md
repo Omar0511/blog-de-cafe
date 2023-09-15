@@ -12,7 +12,9 @@
 
 ### Tipografía
 
--
+- Google Fonts
+- Open Sans
+- Pt Sans
 
 ### Iconos
 
