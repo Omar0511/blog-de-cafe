@@ -220,6 +220,29 @@ img {
     font-size: 2rem;
 }
 
+/* Sobre nosotros */
+@media (min-width: 768px){
+    /*
+        .sobre-nosotros {
+            display: flex;
+            justify-content: space-between;
+            gap: 2rem; se sustituye por justify-content y el calc del flex-basis
+        }
+
+        .sobre-nosotros__texto,
+        .sobre-nosotros__imagen {
+            flex-basis: 50%; -- Es mejor el de abajo
+            flex-basis: calc(50% - 1rem);
+        }
+    */
+
+    .sobre-nosotros {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 2rem;
+    }
+}
+
 /* Footer */
 .footer {
     background-color: var(--negro);
