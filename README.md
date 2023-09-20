@@ -9,6 +9,7 @@
 - HTML5
 - CSS3
 - Normalize
+- Modernizr
 
 ### Tipografía
 
