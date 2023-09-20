@@ -10,6 +10,8 @@
 - CSS3
 - Normalize
 - Modernizr
+- BEM
+- Lighthouse Report Viewer (extensión para Google Chrome)
 
 ### Tipografía
 
@@ -17,14 +19,10 @@
 - Open Sans
 - Pt Sans
 
-### Iconos
-
--
-
 ### Descripción
 
 - Proyecto sobre cafés
 
 ### URL
 
-- sitio **()**
+- sitio **(https://blog-coffees.netlify.app)**
