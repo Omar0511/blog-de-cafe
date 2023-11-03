@@ -11,8 +11,8 @@
 - Normalize
 - Modernizr
 - BEM
-- Lighthouse Report Viewer (extensión para Google Chrome)
-    - Mide el rendimiento de la página
+- Lighthouse Report Viewer (extensión para Google Chrome) **Mide el rendimiento de la página**
+- FormSubmit
 
 ### Tipografía
 
