@@ -12,12 +12,13 @@
 - Modernizr
 - BEM
 - Lighthouse Report Viewer (extensión para Google Chrome)
+    - Mide el rendimiento de la página
 
 ### Tipografía
 
 - Google Fonts
-- Open Sans
-- Pt Sans
+- _Open Sans_
+- _Pt Sans_
 
 ### Descripción
 
@@ -25,4 +26,4 @@
 
 ### URL
 
-- sitio **(https://blog-coffees.netlify.app)**
+- Sitio: **(https://blog-coffees.netlify.app)**
